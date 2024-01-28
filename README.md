@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivjotSidhu
-- 👀 I’m interested in Python , Java
-- 🌱 I’m currently learning Python and java
+- 👀 I’m interested in C, C++
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me xyzhacker13@gmail.com
 
